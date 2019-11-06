@@ -1,0 +1,16 @@
+dependencies:
+	-json
+	-os
+	-builtins
+	-autopep8
+	-types
+	-os
+	-autopep8
+	-builtins
+	-types
+	-json
+	-os
+	-types
+	-autopep8
+	-json
+	-builtins
